@@ -6,8 +6,8 @@
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajando en proyectos de **desarrollo de software y automatización de procesos**.
-- 🎓 Estudiando **Ingeniería en Software** en la Universidad Hybridge[cite: 1].
-- 💡 Interesado en la **optimización de datos, visión por computadora y herramientas digitales**.
+- 🎓 Estudiando **Ingeniería en Software** en la Universidad Hybridge.
+- 💡 Interesado en la **Desarrollo web, automatizacion de procesos, sistemas de gestion y software para empresas**.
 - 🌱 Aprendiendo y profundizando en arquitectura de software y estructuras de datos.
 
 ---
