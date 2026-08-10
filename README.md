@@ -1,4 +1,4 @@
-# Hi there, I'm Joaquín Romero 👋
+# HOLA! Soy Joaquín Monreal 👋
 
  Estudiante de Ingeniería en Software | Software Developer & Data Analyst
 
